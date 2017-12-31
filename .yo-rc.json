@@ -1,0 +1,18 @@
+{
+  "generator-ng-fullstack": {
+    "appName": "angular-blog",
+    "username": "user.name",
+    "userEmail": "user.email@example.com",
+    "stack": "fullstack",
+    "repoHostUrl": "github.com",
+    "userNameSpace": "user.name",
+    "client": "ng2",
+    "stylePreprocessor": "sass",
+    "server": "node",
+    "nodeWebFrameworkServer": "express",
+    "transpilerServer": "node",
+    "secure": false,
+    "testsSeparated": false,
+    "differentStaticServer": false
+  }
+}
